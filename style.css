@@ -1,0 +1,12 @@
+.class__list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.class__item{
+  width: 200px;
+}
